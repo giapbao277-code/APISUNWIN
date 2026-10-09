@@ -1,0 +1,17 @@
+{
+  "name": "APISUNWIN",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "APISUNWIN.js",
+  "scripts": {
+    "start": "node APISUNWIN.js"
+  },
+  "dependencies": {
+    "fastify": "^4.26.0",
+    "@fastify/cors": "^9.0.1",
+    "node-fetch": "^3.3.2"
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  }
+}
